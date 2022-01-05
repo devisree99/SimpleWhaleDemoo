@@ -1,5 +1,5 @@
 
-name: CIdevi
+name: devi
 on:
   push:
     branches: 
