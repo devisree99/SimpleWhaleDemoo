@@ -1,5 +1,5 @@
 
-name: DEVI
+name: CI
 on:
   push:
     branches: 
